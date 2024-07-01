@@ -1,7 +1,5 @@
 # FlappyBird-Java
 
-# Flappy Bird Game
-
 # Overview
 The Flappy Bird Game is a Java application that replicates the popular mobile game with smooth animations and responsive user input handling. Developed using Java Swing, this game features intuitive controls, engaging gameplay, and a scoring system to track high scores. The game offers an enjoyable experience with a user-friendly interface and simple mechanics.
 

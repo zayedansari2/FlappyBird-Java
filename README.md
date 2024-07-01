@@ -3,6 +3,10 @@
 # Overview
 The Flappy Bird Game is a Java application that replicates the popular mobile game with smooth animations and responsive user input handling. Developed using Java Swing, this game features intuitive controls, engaging gameplay, and a scoring system to track high scores. The game offers an enjoyable experience with a user-friendly interface and simple mechanics.
 
+# Flappy Bird
+<img width="449" alt="image" src="https://github.com/zayedansari2/FlappyBird-Java/assets/174281840/6428947f-5fc4-43ca-9dbb-4e6957555bc0">
+
+
 # Files
 - `FlappyBirdGame.java`: Contains the `FlappyBirdGame` class, which extends `JPanel` and implements `ActionListener` and `KeyListener`. This class handles the game mechanics, rendering, and user input.
 - `FlappyBirdMain.java`: Contains the `FlappyBirdMain` class, which serves as the entry point for the application. It creates an instance of the `FlappyBirdGame` class and initializes the game window.
